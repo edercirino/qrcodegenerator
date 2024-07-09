@@ -17,35 +17,22 @@
 </div>
 
 <h4 align="center">
-Project status:  🚧 in progress 🚧
+Project status: ✅Done
 </h4>
 
 ### 📝 Features
 
-- [] Form to enter data
-- [] Button "Generate QR Code"
-- [] Button "Clear"
+- [x] Input to enter text
+- [x] Button "Generate QR Code"
 
 ### 🧐 Demonstration
 
 <h1 align=center>
-<p>Comming Soon</p>
-<!-- <img alt="Whatsapp No Contact" title="main page" src="#" -->
+<img alt="qrcode generator" title="main page" src="./screenshots/screenshot1.png">
 </h1>
 
 <h1 align=center>
-<p>Comming Soon</p>
-<!-- <img alt="Whatsapp No Contact" title="main page" src="#" -->
-</h1>
-
-<h1 align=center>
-<p>Comming Soon</p>
-<!-- <img alt="Whatsapp No Contact" title="main page" src="#" -->
-</h1>
-
-<h1 align=center>
-<p>Comming Soon</p>
-<!-- <img alt="Whatsapp No Contact" title="main page" src="#" -->
+<img alt="qrcode generator" title="qrcode Generated" src="./screenshots/screenshot2.png">
 </h1>
 
 ## 👩🏻‍💻 How to test this application
@@ -59,7 +46,7 @@ Project status:  🚧 in progress 🚧
 
 - Clone this repository and save in your desktop directory
 - Double click on index.html
-- Fill the fields
+- Fill the text field
 - Click in "Generate QR Code"
 - Scan using your cell phone
 
