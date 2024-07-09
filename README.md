@@ -29,19 +29,23 @@ Project status:  🚧 in progress 🚧
 ### 🧐 Demonstration
 
 <h1 align=center>
-<img alt="Whatsapp No Contact" title="main page" src="./screenshots/mainPage.jpeg"
+<p>Comming Soon</p>
+<!-- <img alt="Whatsapp No Contact" title="main page" src="#" -->
 </h1>
 
 <h1 align=center>
-<img alt="Whatsapp No Contact" title="main page" src="./screenshots/incompleteAdress.jpeg"
+<p>Comming Soon</p>
+<!-- <img alt="Whatsapp No Contact" title="main page" src="#" -->
 </h1>
 
 <h1 align=center>
-<img alt="Whatsapp No Contact" title="main page" src="./screenshots/dontFindInTheMap.jpeg"
+<p>Comming Soon</p>
+<!-- <img alt="Whatsapp No Contact" title="main page" src="#" -->
 </h1>
 
 <h1 align=center>
-<img alt="Whatsapp No Contact" title="main page" src="./screenshots/openChat.jpeg"
+<p>Comming Soon</p>
+<!-- <img alt="Whatsapp No Contact" title="main page" src="#" -->
 </h1>
 
 ## 👩🏻‍💻 How to test this application
